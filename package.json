@@ -1,0 +1,24 @@
+{
+  "name": "airport-lat-lon-list",
+  "version": "1.0.2",
+  "description": "This is to give the latitude and longitude of airport list. ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "latitude",
+    "longitude",
+    "airport",
+    "list",
+    "geocode",
+    "googlemaps",
+    "airport-lat-long-list",
+    "lat-long"
+  ],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@google/maps": "^0.4.6"
+  }
+}
